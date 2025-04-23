@@ -14,8 +14,8 @@ uuid = { version = "1.3", features = ["v4"] }
 tokio-tungstenite = "0.20"
 parking_lot = "0.12"
 lazy_static = "1.4.0"
-crosslic = { path = "../crosslic" }
-crosslic-macro = { path = "../crosslic-macro" }
+crosslic = "0.1.0"
+crosslic-macro = "0.1.0"
 include_dir = "0.7"
 mime_guess = "2.0"
 tempfile = "3.3"
